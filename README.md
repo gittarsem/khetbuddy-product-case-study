@@ -149,7 +149,7 @@ KhetBuddy includes:
 
 ## User Workflow
 
-![Workflow](assets/workflow.png)
+![Workflow](assets/workflow.svg)
 
 ## System Architecture
 
@@ -157,7 +157,11 @@ KhetBuddy includes:
 
 ## Product Dashboard
 
-![Dashboard](assets/dashboard.png)
+![Dashboard](assets/dashboard.jpeg)
+
+## Whatsapp Client
+
+![Dashboard](assets/whatsapp.jpeg)
 
 ---
 
